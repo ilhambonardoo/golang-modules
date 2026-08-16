@@ -26,6 +26,12 @@ go mod init namamodule
 go mod init github.com/ilhambonardoo/golang-modules
 ```
 
+**Kalo mau melakukan major update jalankan perintah berikut :**
+
+```
+go mod init github.com/ilhambonardoo/golang-modules/v2
+```
+
 ### Membuat rilis
 
 **Jalankan perintah berikut di terminal :**
